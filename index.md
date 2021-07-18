@@ -7,7 +7,7 @@ Email: tejuprash@gmail.com
 I am an incoming Master's student at Purdue University. My broad research interests are in data systems. 
 
 ### Research Interests
-My current research interests are in Big Data Systems, especially for Data Science applications. 
+My current research interests are in Big Data Systems, especially for Data Science applications. I have had some undergraduate research experience in Hadoop, specifically in Spatial Hadoop. 
 
 
 ### Publications
